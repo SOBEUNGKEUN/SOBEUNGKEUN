@@ -1,15 +1,17 @@
-<h3 align = "center">📚STACKS</h3>
-<p align = "center">
+<h3>📚STACKS</h3>
+
 <img  src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img  src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img  src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img  src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img  src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img  src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
  <hr>
  <br>
  
  
-<h3 align = "center">Tools</h3>
-<p align = "center">
+<h3>Tools</h3>
+
 <img src ="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src ="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" > <img src ="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src ="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src ="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" > <img src ="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" >
+<hr>
+<br>
  
-<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOBEUNGKEUN&&show_icons=true&theme=dark) -->
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOBEUNGKEUN&&show_icons=true&theme=dark) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsqudth)](https://solved.ac/rnjsqudth)
  
 
 
