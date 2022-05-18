@@ -5,7 +5,7 @@
  <br>
  
  
-<h3  align ="center">Tools</h3><br>
+<h3  align ="center">🔨Tools</h3><br>
 <p text align="center">
 <img src ="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src ="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" > <img src ="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src ="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src ="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" > <img src ="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" >
 
@@ -23,7 +23,7 @@
 
 <hr>
 <br>
-<h3  align ="center">Baekjoon Online Judge</h3>
+<h3  align ="center">💾Baekjoon Online Judge</h3>
 <br>
 <div align="center">
  
