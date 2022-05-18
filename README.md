@@ -10,16 +10,16 @@
 <img src ="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src ="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" > <img src ="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src ="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src ="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" > <img src ="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" >
 
  
-<hr>
+<!-- <hr>
 <br>
 <h3  align ="center">Language</h3>
-<br>
+<br> -->
 
- <div align="center">
+<!-- <div align="center">
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOBEUNGKEUN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- 
-</div>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOBEUNGKEUN&layout=compact&theme=tokyonight)
+
+</div> -->
 
 <hr>
 <br>
