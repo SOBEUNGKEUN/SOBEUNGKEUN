@@ -13,18 +13,29 @@
 <h3  align ="center">GitHub stats</h3>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOBEUNGKEUN&&show_icons=true&theme=dark)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsqudth)](https://solved.ac/rnjsqudth)
+<div align="center">
  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOBEUNGKEUN&&show_icons=true&theme=dark)
+ 
+</div>
+
+<h3  align ="center">Baekjoon Online Judge</h3>
+
+<div align="center">
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsqudth)](https://solved.ac/rnjsqudth)
+ 
+</div>
 <hr>
 <br>
 <h3  align ="center">Language</h3>
 <br>
 
- <p align="center">
+ <div align="center">
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOBEUNGKEUN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
-</p>
+</div>
 
 <hr>
 <br>
