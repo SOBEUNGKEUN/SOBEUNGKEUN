@@ -13,7 +13,7 @@
 <h3  align ="center">GitHub stats</h3>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOBEUNGKEUN&&show_icons=true&theme=dark)  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsqudth)](https://solved.ac/rnjsqudth)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SOBEUNGKEUN&&show_icons=true&theme=dark) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rnjsqudth)](https://solved.ac/rnjsqudth)
  
 <hr>
 <br>
