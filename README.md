@@ -5,13 +5,15 @@
 <img src="https://img.shields.io/badge/Springboot -76cd51?style=flat-square&logo=Springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring -76cd51?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=JAVA&logoColor=white"/>
 <br>
 <img src ="https://img.shields.io/badge/Gradle-02303A?style=flat-the-badge&logo=Gradle&logoColor=white"><br>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br><img src="https://img.shields.io/badge/Python-3776AB?style=fLAT-the-badge&logo=Python&logoColor=white"><br><img src="https://img.shields.io/badge/POSTMAN-fc9303?style=flat-square&logo=postman&logoColor=white"/>  
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br>
+<img src ="https://img.shields.io/badge/mysql-4479A1?style=flat-the-badge&logo=mysql&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=fLAT-the-badge&logo=Python&logoColor=white"><br>
+<img src="https://img.shields.io/badge/POSTMAN-fc9303?style=flat-square&logo=postman&logoColor=white"/>
 <h3  align ="left">🔨Tools</h3>
 <p text align="left">
 <img src ="https://img.shields.io/badge/eclipseide-2C2255?style=flat-the-badge&logo=eclipseide&logoColor=white"><br> 
 <img src ="https://img.shields.io/badge/pycharm-000000?style=flat-the-badge&logo=pycharm&logoColor=white" ><br> 
 <img src ="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-the-badge&logo=visualstudiocode&logoColor=white"><br>
-<img src ="https://img.shields.io/badge/mysql-4479A1?style=flat-the-badge&logo=mysql&logoColor=white"><br>
 <img src ="https://img.shields.io/badge/GitLab-FC6D26?style=flat-the-badge&logo=GitLab&logoColor=white">
 
 
