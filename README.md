@@ -1,13 +1,18 @@
-<h3 text align ="center">📚STACKS</h3><br>
-<p text align="center">
-<img  src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img  src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img  src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<h3 text align ="left">📚STACKS</h3>
+<p text align="left">
+ <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><br>
+ <img src="https://img.shields.io/badge/Springboot -76cd51?style=flat-square&logo=Springboot&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/Spring -76cd51?style=flat-square&logo=Spring&logoColor=white"/><br>
+ <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
+ <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
+ <img src="https://img.shields.io/badge/POSTMAN-fc9303?style=flat-square&logo=postman&logoColor=white"/><br>
  <hr>
- <br>
- 
- 
-<h3  align ="center">🔨Tools</h3><br>
-<p text align="center">
-<img src ="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src ="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" > <img src ="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src ="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<h3  align ="left">🔨Tools</h3><br>
+<p text align="left">
+<img src ="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"><br> 
+<img src ="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" ><br> 
+<img src ="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><br>
+<img src ="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
  
 <!-- <hr>
 <br>
@@ -15,9 +20,7 @@
 <br> -->
 
 <!-- <div align="center">
- 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SOBEUNGKEUN&layout=compact&theme=tokyonight)
-
 </div> -->
 <br>
 <hr>
