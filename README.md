@@ -16,7 +16,13 @@
 
 
 <h3  align ="left">📚 Experience</h3>
-<img src ="https://img.shields.io/badge/React-61DAFB?style=flat-the-badge&logo=React&logoColor=white"> <img src ="https://img.shields.io/badge/Node.js-339933?style=flat-the-badge&logo=Node.js&logoColor=white"> <img src ="https://img.shields.io/badge/Next.js-000000?style=flat-the badge&logo=Next.js&logoColor=white">  <img src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-the-badge&logo=Amazon AWS&logoColor=white"> <img src ="https://img.shields.io/badge/Jenkins-D24939?style=flat-the-badge&logo=Jenkins&logoColor=white"> <img src ="https://img.shields.io/badge/Oracle-F90000?style=flat-the-badge&logo=Oracle&logoColor=white">
+<p text align="left">
+<img src ="https://img.shields.io/badge/React-61DAFB?style=flat-the-badge&logo=React&logoColor=white">
+<img src ="https://img.shields.io/badge/Node.js-339933?style=flat-the-badge&logo=Node.js&logoColor=white">
+<img src ="https://img.shields.io/badge/Next.js-000000?style=flat-the badge&logo=Next.js&logoColor=white"> 
+<img src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-the-badge&logo=Amazon AWS&logoColor=white">
+<img src ="https://img.shields.io/badge/Jenkins-D24939?style=flat-the-badge&logo=Jenkins&logoColor=white">
+<img src ="https://img.shields.io/badge/Oracle-F90000?style=flat-the-badge&logo=Oracle&logoColor=white">
  
 <!-- <hr>
 <br>
