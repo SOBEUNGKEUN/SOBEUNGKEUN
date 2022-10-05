@@ -1,18 +1,22 @@
-<h3 text align ="left">📚STACKS</h3>
+### Hi, there🙋🏽‍♂️
+<hr>
+<h3 text align ="left">💪STACKS</h3>
 <p text align="left">
- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"><br>
- <img src="https://img.shields.io/badge/Springboot -76cd51?style=flat-square&logo=Springboot&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/Spring -76cd51?style=flat-square&logo=Spring&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><br>
- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><br>
- <img src="https://img.shields.io/badge/POSTMAN-fc9303?style=flat-square&logo=postman&logoColor=white"/><br>
- <hr>
-<h3  align ="left">🔨Tools</h3><br>
+<img src="https://img.shields.io/badge/Springboot -76cd51?style=flat-square&logo=Springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring -76cd51?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-3776AB?style=flat-square&logo=JAVA&logoColor=white"/>
+<br>
+<img src ="https://img.shields.io/badge/Gradle-02303A?style=flat-the-badge&logo=Gradle&logoColor=white"><br>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br><img src="https://img.shields.io/badge/Python-3776AB?style=fLAT-the-badge&logo=Python&logoColor=white"><br><img src="https://img.shields.io/badge/POSTMAN-fc9303?style=flat-square&logo=postman&logoColor=white"/>  
+<h3  align ="left">🔨Tools</h3>
 <p text align="left">
-<img src ="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"><br> 
-<img src ="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" ><br> 
-<img src ="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><br>
-<img src ="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src ="https://img.shields.io/badge/eclipseide-2C2255?style=flat-the-badge&logo=eclipseide&logoColor=white"><br> 
+<img src ="https://img.shields.io/badge/pycharm-000000?style=flat-the-badge&logo=pycharm&logoColor=white" ><br> 
+<img src ="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-the-badge&logo=visualstudiocode&logoColor=white"><br>
+<img src ="https://img.shields.io/badge/mysql-4479A1?style=flat-the-badge&logo=mysql&logoColor=white"><br>
+<img src ="https://img.shields.io/badge/GitLab-FC6D26?style=flat-the-badge&logo=GitLab&logoColor=white">
+
+
+<h3  align ="left">📚 Experience</h3>
+<img src ="https://img.shields.io/badge/React-61DAFB?style=flat-the-badge&logo=React&logoColor=white"> <img src ="https://img.shields.io/badge/Node.js-339933?style=flat-the-badge&logo=Node.js&logoColor=white"> <img src ="https://img.shields.io/badge/Next.js-000000?style=flat-the badge&logo=Next.js&logoColor=white">  <img src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-the-badge&logo=Amazon AWS&logoColor=white"> <img src ="https://img.shields.io/badge/Jenkins-D24939?style=flat-the-badge&logo=Jenkins&logoColor=white"> <img src ="https://img.shields.io/badge/Oracle-F90000?style=flat-the-badge&logo=Oracle&logoColor=white">
  
 <!-- <hr>
 <br>
