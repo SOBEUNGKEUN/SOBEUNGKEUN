@@ -1,6 +1,6 @@
 ### Hi, there🙋🏽‍♂️
-<p>개발자를 희망하는 소병권입니다.</p>
-<p>BE 와 FE, SQL을 많이 경험하였으며, 컨테이너도 같이 공부하고 있습니다.</p>
+<p>FW 엔지니어 소병권입니다.</p>
+<p>FW, WAS, CI/CD 업무를 담당하고 있습니다.</p>
 <hr>
 <h3 text align ="left">💪STACKS</h3>
 <p text align="left">
